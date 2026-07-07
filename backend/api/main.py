@@ -101,7 +101,16 @@ def predict_category(data: dict):
     text = data.get("text", "")
     if not text:
         raise HTTPException(status_code=400, detail="Text required")
-    return smart_predict(model, text)
+
+    try:
+        result = smart_predict(model, text)
+        return result
+
+    except Exception as e:
+        import traceback
+        print("=" * 80)
+        traceback.print_exc()
+        raise HTTPException(status_code=500, detail=str(e))
 
 # ── EXPENSES ──────────────────────────────────────────
 @app.post("/expenses")
