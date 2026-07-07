@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:8000";
+const BASE_URL = "https://fintrack-ai-backend-7qnw.onrender.com";
 
 // ── Auth helpers ──────────────────────────────────────
 export const getToken  = () => localStorage.getItem("kharcha_token");
@@ -8,6 +8,7 @@ export const saveAuth  = (data) => {
   localStorage.setItem("kharcha_user", JSON.stringify({
     name: data.name, email: data.email, user_id: data.user_id
   }));
+
 };
 export const clearAuth = () => {
   localStorage.removeItem("kharcha_token");
