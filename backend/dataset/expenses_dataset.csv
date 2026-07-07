@@ -1,0 +1,659 @@
+text,category
+Swiggy dinner,Food
+Zomato order,Food
+Pizza Hut dinner,Food
+McDonald's burger,Food
+Domino's pizza,Food
+KFC chicken,Food
+Subway sandwich,Food
+Haldiram snacks,Food
+Blinkit groceries,Food
+BigBasket order,Food
+Kirana store,Food
+Vegetables from market,Food
+Milk and bread,Food
+Restaurant lunch,Food
+Chai and samosa,Food
+Biryani order,Food
+Maggi noodles,Food
+Dunzo grocery,Food
+grocery shopping,Food
+food delivery,Food
+dinner outside,Food
+lunch at office,Food
+breakfast cafe,Food
+coffee shop,Food
+Starbucks coffee,Food
+ice cream parlour,Food
+sweet shop,Food
+fruits from market,Food
+dabba food,Food
+tiffin service,Food
+Burger King meal,Food
+Fasos wrap,Food
+Box8 meal,Food
+EatFit order,Food
+Behrouz Biryani,Food
+Oven Story pizza,Food
+Theobroma cake,Food
+Chaayos chai,Food
+Third Wave Coffee,Food
+Blue Tokai coffee,Food
+Naturals ice cream,Food
+Baskin Robbins,Food
+Vadapav stall,Food
+panipuri stall,Food
+dhaba dinner,Food
+mess food,Food
+canteen lunch,Food
+office cafeteria,Food
+Zepto grocery,Food
+Swiggy Instamart,Food
+JioMart grocery,Food
+DMart grocery,Food
+Reliance Fresh,Food
+More supermarket,Food
+Star Bazaar,Food
+Licious meat,Food
+FreshToHome fish,Food
+Country Delight milk,Food
+Milkbasket delivery,Food
+bread from bakery,Food
+sweets from mithai shop,Food
+restaurant dinner,Food
+biryani house,Food
+south indian food,Food
+north indian restaurant,Food
+chinese food order,Food
+Uber ride,Travel
+Ola cab,Travel
+Auto rickshaw,Travel
+Rapido bike,Travel
+Petrol filling,Travel
+Diesel filling,Travel
+Bus ticket,Travel
+Metro card recharge,Travel
+Train ticket,Travel
+Flight ticket,Travel
+IndiGo flight,Travel
+Air India ticket,Travel
+MakeMyTrip booking,Travel
+Goibibo hotel,Travel
+hotel stay,Travel
+toll tax,Travel
+parking charges,Travel
+cab to airport,Travel
+railway reservation,Travel
+road trip fuel,Travel
+bike service,Travel
+car service,Travel
+vehicle maintenance,Travel
+tyre puncture,Travel
+NueGo bus,Travel
+AbhiBus ticket,Travel
+RedBus booking,Travel
+Yatra flight,Travel
+EaseMyTrip booking,Travel
+Cleartrip booking,Travel
+SpiceJet flight,Travel
+Vistara flight,Travel
+Akasa Air ticket,Travel
+IRCTC booking,Travel
+UPSRTC bus,Travel
+MSRTC bus,Travel
+KSRTC bus,Travel
+Volvo bus ticket,Travel
+Sleeper bus booking,Travel
+OYO rooms,Travel
+Treebo hotel,Travel
+FabHotels stay,Travel
+Zostel hostel,Travel
+Airbnb stay,Travel
+Meru cab,Travel
+Zoom car rental,Travel
+fuel station,Travel
+highway toll,Travel
+parking ticket,Travel
+bike taxi,Travel
+e-rickshaw,Travel
+metro token,Travel
+local train pass,Travel
+cab sharing,Travel
+Uber Pool,Travel
+Ola Share,Travel
+interstate travel,Travel
+weekend trip,Travel
+hill station trip,Travel
+bus journey,Travel
+train journey,Travel
+Netflix subscription,Entertainment
+Amazon Prime,Entertainment
+Hotstar subscription,Entertainment
+BookMyShow movie,Entertainment
+cinema ticket,Entertainment
+concert ticket,Entertainment
+comedy show,Entertainment
+amusement park,Entertainment
+gaming recharge,Entertainment
+BGMI UC purchase,Entertainment
+Free Fire diamonds,Entertainment
+Spotify premium,Entertainment
+YouTube premium,Entertainment
+online game purchase,Entertainment
+bowling alley,Entertainment
+escape room,Entertainment
+theme park entry,Entertainment
+zoo entry,Entertainment
+museum ticket,Entertainment
+live sports match,Entertainment
+IPL ticket,Entertainment
+cricket match,Entertainment
+pub entry,Entertainment
+nightclub,Entertainment
+Disney Plus Hotstar,Entertainment
+SonyLIV subscription,Entertainment
+ZEE5 subscription,Entertainment
+JioCinema premium,Entertainment
+MX Player premium,Entertainment
+Apple TV subscription,Entertainment
+Audible subscription,Entertainment
+PlayStation Plus,Entertainment
+Xbox Game Pass,Entertainment
+Steam game purchase,Entertainment
+PVR movies,Entertainment
+INOX cinema,Entertainment
+Cinepolis ticket,Entertainment
+multiplex popcorn,Entertainment
+bar visit,Entertainment
+lounge entry,Entertainment
+stand up comedy,Entertainment
+theatre play,Entertainment
+water park,Entertainment
+Imagica theme park,Entertainment
+Wonderla ticket,Entertainment
+Smaaash gaming,Entertainment
+Time Zone gaming,Entertainment
+movie night,Entertainment
+weekend outing,Entertainment
+Myntra order,Shopping
+Ajio shopping,Shopping
+Amazon order,Shopping
+Flipkart purchase,Shopping
+Nykaa beauty,Shopping
+clothes shopping,Shopping
+shoes purchase,Shopping
+mobile accessories,Shopping
+electronics purchase,Shopping
+new phone,Shopping
+laptop bag,Shopping
+home decor,Shopping
+furniture purchase,Shopping
+kitchenware,Shopping
+stationery items,Shopping
+books purchase,Shopping
+sports equipment,Shopping
+gym wear,Shopping
+watch purchase,Shopping
+sunglasses,Shopping
+salon visit,Shopping
+parlour appointment,Shopping
+spa treatment,Shopping
+cosmetics purchase,Shopping
+perfume bottle,Shopping
+Zudio clothes,Shopping
+Zudio shopping,Shopping
+Zudio purchase,Shopping
+H&M shopping,Shopping
+Zara purchase,Shopping
+Uniqlo shopping,Shopping
+Westside clothes,Shopping
+Pantaloons shopping,Shopping
+Max Fashion,Shopping
+V-Mart clothes,Shopping
+Reliance Trends,Shopping
+Lifestyle shopping,Shopping
+Shoppers Stop,Shopping
+Brand Factory,Shopping
+Meesho order,Shopping
+Snapdeal order,Shopping
+Tata Cliq,Shopping
+Croma electronics,Shopping
+Vijay Sales,Shopping
+Reliance Digital,Shopping
+Apple Store,Shopping
+Samsung store,Shopping
+boAt earphones,Shopping
+Noise smartwatch,Shopping
+Puma shoes,Shopping
+Nike shoes,Shopping
+Adidas purchase,Shopping
+Bata footwear,Shopping
+Metro shoes,Shopping
+Woodland shoes,Shopping
+Decathlon sports,Shopping
+Crossword books,Shopping
+hair cut,Shopping
+hair colour,Shopping
+facial treatment,Shopping
+manicure pedicure,Shopping
+waxing appointment,Shopping
+apparel shopping,Shopping
+clothing store,Shopping
+fashion shopping,Shopping
+outfit purchase,Shopping
+kurta purchase,Shopping
+saree shopping,Shopping
+jeans purchase,Shopping
+shirt purchase,Shopping
+Electricity bill,Bills
+JIO recharge,Bills
+Airtel recharge,Bills
+BSNL bill,Bills
+Vi recharge,Bills
+water bill,Bills
+gas cylinder,Bills
+internet bill,Bills
+broadband payment,Bills
+DTH recharge,Bills
+Tata Sky recharge,Bills
+mobile bill,Bills
+insurance premium,Bills
+health insurance,Bills
+car insurance,Bills
+credit card bill,Bills
+EMI payment,Bills
+LIC premium,Bills
+postpaid bill,Bills
+utility bill payment,Bills
+Tata Play recharge,Bills
+Dish TV recharge,Bills
+Hathway broadband,Bills
+ACT Fibernet bill,Bills
+Excitel internet,Bills
+BSES electricity,Bills
+MSEDCL bill,Bills
+TNEB electricity,Bills
+BESCOM bill,Bills
+SBI loan EMI,Bills
+HDFC EMI,Bills
+ICICI EMI,Bills
+Axis Bank EMI,Bills
+Bajaj Finserv EMI,Bills
+Paytm postpaid,Bills
+gas pipeline bill,Bills
+Indane gas,Bills
+HP gas cylinder,Bills
+Bharat gas,Bills
+property tax,Bills
+municipal tax,Bills
+phone recharge,Bills
+data recharge,Bills
+electricity payment,Bills
+House rent,Rent
+PG rent,Rent
+flat rent,Rent
+room rent,Rent
+hostel fees,Rent
+apartment rent,Rent
+society maintenance,Rent
+parking rent,Rent
+monthly rent paid,Rent
+rent transfer,Rent
+accommodation charges,Rent
+paying guest,Rent
+mess charges,Rent
+1BHK rent,Rent
+2BHK rent,Rent
+studio apartment,Rent
+shared flat rent,Rent
+coliving rent,Rent
+Stanza Living,Rent
+OYO Life rent,Rent
+NestAway rent,Rent
+Zolo coliving,Rent
+maintenance charges,Rent
+society fee,Rent
+housing society,Rent
+building maintenance,Rent
+khana order kiya,Food
+khana bahar khaya,Food
+khaana,Food
+khana,Food
+kha liya bahar,Food
+subah ka nashta,Food
+nashta kiya,Food
+dopahar ka khana,Food
+raat ka khana,Food
+bhojan,Food
+peena pani,Food
+chai pi,Food
+chai piya,Food
+chai coffee,Food
+dudh liya,Food
+dudh,Food
+sabzi li,Food
+sabzi,Food
+anda bread,Food
+ande,Food
+roti,Food
+roti sabzi,Food
+dal chawal,Food
+dal rice,Food
+biryani khaya,Food
+biryani khayi,Food
+biryani li,Food
+chicken khaya,Food
+mutton khaya,Food
+fish khaya,Food
+paneer khaya,Food
+pizza khaya,Food
+burger khaya,Food
+noodles khaye,Food
+maggi banayi,Food
+paratha khaya,Food
+poha khaya,Food
+upma khaya,Food
+idli dosa,Food
+dosa khaya,Food
+samosa khaya,Food
+kachori,Food
+jalebi,Food
+mithai,Food
+meetha khaya,Food
+ice cream khaya,Food
+cold drink,Food
+juice piya,Food
+lassi pi,Food
+shakes,Food
+smoothie,Food
+fruit liye,Food
+apple banana,Food
+grocery li,Food
+kirana se liya,Food
+market se sabzi,Food
+bazaar se khana,Food
+store se grocery,Food
+online khana,Food
+delivery khana,Food
+ghar ka khana,Food
+tiffin,Food
+dabba,Food
+mess ka khana,Food
+canteen,Food
+dhaba,Food
+dhabe pe khaya,Food
+hotel mein khaya,Food
+restaurant gaye,Food
+restaurant mein,Food
+bahar khaya,Food
+outside food,Food
+ghar pe banaya nahi,Food
+order kiya online,Food
+ordered food,Food
+food order,Food
+lunch order,Food
+dinner order,Food
+breakfast order,Food
+morning breakfast,Food
+afternoon lunch,Food
+evening snacks,Food
+snacks khaaye,Food
+biscuit chips,Food
+namkeen,Food
+mixture,Food
+dry fruits,Food
+swiggy se mangaya,Food
+zomato se mangaya,Food
+blinkit se mangaya,Food
+zepto se mangaya,Food
+bigbasket se,Food
+grofers,Food
+dunzo se,Food
+dmart se khaana,Food
+reliance se grocery,Food
+more se grocery,Food
+milk order,Food
+curd dahi,Food
+dahi,Food
+paneer liya,Food
+butter ghee,Food
+ghee,Food
+masala,Food
+atta maida,Food
+rice chawal,Food
+cooking oil,Food
+tel,Food
+namak cheeni,Food
+sugar,Food
+tea leaves,Food
+patti chai,Food
+coffee powder,Food
+Starbucks pe gaye,Food
+cafe gaye,Food
+coffee shop gaye,Food
+chai wale se,Food
+tapri chai,Food
+cutting chai,Food
+nimbu pani,Food
+sharbat,Food
+chole bhature,Food
+pav bhaji,Food
+vada pav,Food
+pani puri,Food
+golgappa,Food
+bhel puri,Food
+ragda pattice,Food
+dabeli,Food
+frankie,Food
+wrap,Food
+sandwich khaya,Food
+toast,Food
+omelette,Food
+egg bhurji,Food
+rajma chawal,Food
+kadhi chawal,Food
+khichdi,Food
+pulao,Food
+fried rice,Food
+hakka noodles,Food
+manchurian,Food
+momos,Food
+shawarma,Food
+roll,Food
+kebab,Food
+tandoori,Food
+tikka,Food
+curry,Food
+gravy,Food
+thali,Food
+meals,Food
+buffet,Food
+brunch,Food
+high tea,Food
+Tira beauty,Shopping
+Tira cosmetics,Shopping
+Tira store,Shopping
+Tira makeup,Shopping
+tira,Shopping
+Tira skincare,Shopping
+Nykaa Fashion,Shopping
+Nykaa order,Shopping
+Purple cosmetics,Shopping
+Mamaearth products,Shopping
+Wow Skin Science,Shopping
+Plum skincare,Shopping
+Sugar Cosmetics,Shopping
+Lakme products,Shopping
+Lotus skincare,Shopping
+Biotique,Shopping
+Himalaya products,Shopping
+MCaffeine,Shopping
+Dot and Key,Shopping
+Minimalist skincare,Shopping
+The Derma Co,Shopping
+Pilgrim skincare,Shopping
+Re'equil,Shopping
+Good Glamm,Shopping
+MyGlamm,Shopping
+Colorbar cosmetics,Shopping
+Faces Canada,Shopping
+Maybelline India,Shopping
+L'Oreal India,Shopping
+Garnier India,Shopping
+Nivea India,Shopping
+Vaseline,Shopping
+Ponds cream,Shopping
+Fair and Lovely,Shopping
+Dove products,Shopping
+Pantene shampoo,Shopping
+Head Shoulders,Shopping
+Sunsilk shampoo,Shopping
+TRESemme,Shopping
+Matrix salon,Shopping
+OGX products,Shopping
+kapde kharide,Shopping
+shopping ki,Shopping
+kuch kharida,Shopping
+online order lagaya,Shopping
+order aaya,Shopping
+delivery ayi,Shopping
+parcel aaya,Shopping
+mall gaye,Shopping
+mall se liya,Shopping
+showroom se liya,Shopping
+dukan se liya,Shopping
+baazar se kapde,Shopping
+readymade kapde,Shopping
+stitching,Shopping
+tailor,Shopping
+suit stitching,Shopping
+kurta pajama,Shopping
+lehenga,Shopping
+dupatta,Shopping
+chunni,Shopping
+odhni,Shopping
+jacket kharidi,Shopping
+coat kharida,Shopping
+blazer,Shopping
+trouser,Shopping
+salwar suit,Shopping
+anarkali,Shopping
+indo western,Shopping
+ethnic wear,Shopping
+western wear,Shopping
+casual wear,Shopping
+formal wear,Shopping
+sports wear,Shopping
+inner wear,Shopping
+undergarments,Shopping
+socks kharide,Shopping
+belt kharidi,Shopping
+wallet kharida,Shopping
+purse kharida,Shopping
+handbag,Shopping
+backpack kharida,Shopping
+jhola,Shopping
+potli bag,Shopping
+jewellery,Shopping
+bangles kharidi,Shopping
+earrings kharidi,Shopping
+necklace kharida,Shopping
+ring kharidi,Shopping
+bracelet,Shopping
+anklet,Shopping
+maang tikka,Shopping
+bindi,Shopping
+mehendi,Shopping
+nail paint,Shopping
+lipstick kharidi,Shopping
+kajal kharida,Shopping
+mascara,Shopping
+foundation,Shopping
+compact powder,Shopping
+blush,Shopping
+highlighter,Shopping
+setting spray,Shopping
+primer,Shopping
+serum kharida,Shopping
+moisturizer kharida,Shopping
+sunscreen kharida,Shopping
+face wash kharida,Shopping
+toner kharida,Shopping
+eye cream,Shopping
+night cream,Shopping
+body lotion,Shopping
+body wash,Shopping
+scrub kharida,Shopping
+mask kharida,Shopping
+hair oil kharida,Shopping
+hair serum,Shopping
+hair mask,Shopping
+dry shampoo,Shopping
+conditioner kharida,Shopping
+Croma se liya,Shopping
+Vijay Sales se,Shopping
+electronics kharidi,Shopping
+gadget kharida,Shopping
+earphones kharidi,Shopping
+headphones kharidi,Shopping
+speaker kharida,Shopping
+charger kharida,Shopping
+cable kharida,Shopping
+power bank,Shopping
+smartwatch kharidi,Shopping
+fitness band,Shopping
+tablet kharida,Shopping
+laptop kharida,Shopping
+laptop accessories,Shopping
+mouse keyboard,Shopping
+pendrive kharidi,Shopping
+hard disk,Shopping
+SSD kharidi,Shopping
+ghar ka saman,Shopping
+furniture kharida,Shopping
+sofa kharida,Shopping
+bed kharida,Shopping
+almirah,Shopping
+table kharida,Shopping
+chair kharidi,Shopping
+curtains,Shopping
+bedsheet,Shopping
+pillow,Shopping
+blanket,Shopping
+razai,Shopping
+toaster,Shopping
+mixer grinder,Shopping
+juicer,Shopping
+iron kharida,Shopping
+vacuum cleaner,Shopping
+air purifier,Shopping
+cooler kharida,Shopping
+heater kharida,Shopping
+geyser,Shopping
+inverter,Shopping
+stabilizer,Shopping
+toys kharide,Shopping
+khelne ka saman,Shopping
+board game,Shopping
+doll kharidi,Shopping
+cycle kharidi,Shopping
+cricket bat,Shopping
+football kharida,Shopping
+badminton kit,Shopping
+carrom board,Shopping
+chess set,Shopping
+Firstcry,Shopping
+BabyChakra,Shopping
+baby products,Shopping
+diaper kharida,Shopping
+baby clothes,Shopping
+stationery kharida,Shopping
+notebook kharida,Shopping
+pen pencil,Shopping
+school supplies,Shopping
+bag kharida,Shopping
+compass box,Shopping
+art supplies,Shopping
+drawing sheet,Shopping
+colour pencils,Shopping
+sketch pens,Shopping
