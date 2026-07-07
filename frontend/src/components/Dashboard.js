@@ -294,7 +294,7 @@ export default function Dashboard({ lang, refresh, onNavigate, globalMonth, setG
             className="bg-white rounded-2xl border border-purple-50 shadow-sm overflow-hidden">
             <div className="px-5 py-4 border-b border-gray-50 flex items-center justify-between">
               <h3 className="text-sm font-bold text-gray-700">{T.recent}</h3>
-              <button onClick={() => onNavigate && onNavigate(globalMonth)}
+              <button onClick={() => onNavigate && onNavigate("records")}
                 className="text-xs font-bold text-purple-600 hover:text-purple-800 transition-colors">
                 {T.viewAll}
               </button>
