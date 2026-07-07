@@ -7,6 +7,7 @@ from datetime import datetime, date
 from api.analysis import get_spending_analysis, get_kharcha_score, get_savings_suggestions
 from api.predictor import smart_predict
 from api.auth import verify_token, register_user, login_user, get_db
+from sklearn.utils.validation import check_is_fitted
 
 app = FastAPI(title="Kharcha AI API", version="2.0.0")
 
@@ -19,7 +20,21 @@ app.add_middleware(
 )
 
 MODEL_PATH = os.path.join(os.path.dirname(__file__), "..", "ml_models", "category_classifier.pkl")
+print("=" * 60)
+print("MODEL PATH:", MODEL_PATH)
+
 model = joblib.load(MODEL_PATH)
+
+print("MODEL TYPE:", type(model))
+print("MODEL:", model)
+
+try:
+    check_is_fitted(model.named_steps["tfidf"])
+    print("TFIDF FITTED ✅")
+except Exception as e:
+    print("TFIDF NOT FITTED ❌", e)
+
+print("=" * 60)
 
 DB_PATH = os.path.join(os.path.dirname(__file__), "..", "kharcha.db")
 
